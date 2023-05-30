@@ -46,8 +46,6 @@ function iniciarTienda()
 
     while(op == 1){
 
-        // SEGUNDO MENÚ QUE PERMITE SELECCIONAR DISTINTAS OPCIONES CON DISTINTOS VALORES A COBRAR.
-
         for (const zapatilla of zapatillas) {
             alert(' ZAPATILLAS \n OPCIÓN '+zapatilla.id+' '+zapatilla.title+' \n Valor: '+zapatilla.price+' ');
         }
