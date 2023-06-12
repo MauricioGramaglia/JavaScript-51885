@@ -1,0 +1,79 @@
+#contenedorPeliculas{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#contenedorCarroCompra{
+    border: 2px solid transparent;
+    position: absolute;
+    background-color: transparent;
+    left: 10px;
+    top:120px; 
+}
+
+#contenedorCarroCompra, .itemCarroCompra {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.itemCarroCompra {
+    margin: 5px;
+  }
+.pelicula{
+    height: 425px;
+    width: 350px;
+    /* border: 1px solid black;  */
+    background-color:transparent; 
+    margin: auto;
+    /* border-radius: 14px; */
+}
+
+.pelicula img{
+    width: 55%;
+    border: 3px solid #3498DB;
+    position: relative;
+    left: 75px;
+    top:0px;
+}
+
+.pelicula button, p{
+    position: relative;
+    left: 135px;
+    top:0px;
+    color: white;
+}
+
+.pelicula h4{
+    position: relative;
+    left: 55px;
+    top: auto;
+    font-size: 1rem;
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #F1C40F;
+}
+
+.contenedorMenu{
+    padding: 25px;
+}
+
+.itemCarroCompra h5{
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ font-size:medium;
+ color:#F1C40F;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+.ocultar{
+    display: none !important;
+}
+
+
+ body {
+    background-image: url("../images/fondo.jpg");
+    background-repeat: repeat;
+  }

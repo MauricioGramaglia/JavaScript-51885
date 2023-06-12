@@ -1,12 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Segunda Pre Entrega Mauricio Gramaglia</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.1/dist/sweetalert2.min.css
+" rel="stylesheet"></link>
+    <link rel="stylesheet" href="./css/estilo.css">
+    <title>EL RINCON DE LAS PELICULAS</title>
 </head>
 <body>
-    <script src="./app.js"></script>
+    <main>
+        <h1 data-aos="fade-left" class="letraH1">EL RINCON DE LAS PELICULAS</h1>
+    </main>
+    
+    
+      <div class="row contenedorMenu">
+        <div class="col-8">
+            <button type="button" id="verCarrito" class="btn btn-outline-primary">
+                <img src="./images/carrito.png" height ="25" width="50" />
+            </button>
+        </div>
+        <div class="col-4">
+            <input id="buscadortxt" class="form-control" placeholder="Buscar: nombre o genero">
+        </div>
+      </div>
+     
+     <div class="row">
+        <div id="contenedorCarroCompra" class="ocultar"></div>
+     </div>
+
+    <div id="contenedorPeliculas"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.1/dist/sweetalert2.all.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./script.js"></script>
 </body>
+
 </html>
