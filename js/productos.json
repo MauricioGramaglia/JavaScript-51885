@@ -7,7 +7,7 @@
             "nombre": "Running",
             "id": "running"
         },
-        "precio": 1800
+        "precio": 64299
     },
     {
         "id": "running-02",
@@ -17,7 +17,7 @@
             "nombre": "Running",
             "id": "running"
         },
-        "precio": 1850
+        "precio": 79999
     },
     {
         "id": "running-03",
@@ -27,7 +27,7 @@
             "nombre": "Running",
             "id": "running"
         },
-        "precio": 1900
+        "precio": 68999
     },
     {
         "id": "running-04",
@@ -37,7 +37,7 @@
             "nombre": "Running",
             "id": "running"
         },
-        "precio": 2000
+        "precio": 99999
     },
     {
         "id": "trainning-01",
@@ -47,7 +47,7 @@
             "nombre": "Trainning",
             "id": "trainning"
         },
-        "precio": 1000
+        "precio": 69999
     },
     {
         "id": "trainning-02",
@@ -57,7 +57,7 @@
             "nombre": "Trainning",
             "id": "trainning"
         },
-        "precio": 1000
+        "precio": 71999
     },
     {
         "id": "trainning-03",
@@ -67,7 +67,7 @@
             "nombre": "Trainning",
             "id": "trainning"
         },
-        "precio": 1000
+        "precio": 54999
     },
     {
         "id": "trainning-04",
@@ -77,7 +77,7 @@
             "nombre": "Trainning",
             "id": "trainning"
         },
-        "precio": 1000
+        "precio": 108999
     },
     {
         "id": "moda-01",
@@ -87,7 +87,7 @@
             "nombre": "Moda",
             "id": "moda"
         },
-        "precio": 2000
+        "precio": 79999
     },
     {
         "id": "moda-02",
@@ -97,7 +97,7 @@
             "nombre": "Moda",
             "id": "moda"
         },
-        "precio": 2000
+        "precio": 71999
     },
     {
         "id": "moda-03",
@@ -107,7 +107,7 @@
             "nombre": "Moda",
             "id": "moda"
         },
-        "precio": 2000
+        "precio": 81999
     },
     {
         "id": "moda-04",
@@ -117,6 +117,6 @@
             "nombre": "Moda",
             "id": "moda"
         },
-        "precio": 3000
+        "precio": 82999
     }
 ]
