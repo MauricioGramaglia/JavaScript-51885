@@ -2,7 +2,7 @@
     {
         "id": "running-01",
         "titulo": "Running 01",
-        "imagen": "./img/running/01.jpg",
+        "imagen": "./images/running/01.webp",
         "categoria": {
             "nombre": "Running",
             "id": "running"
@@ -12,7 +12,7 @@
     {
         "id": "running-02",
         "titulo": "Running 02",
-        "imagen": "./img/running/02.jpg",
+        "imagen": "./images/running/02.webp",
         "categoria": {
             "nombre": "Running",
             "id": "running"
@@ -22,7 +22,7 @@
     {
         "id": "running-03",
         "titulo": "Running 03",
-        "imagen": "./img/running/03.jpg",
+        "imagen": "./images/running/03.webp",
         "categoria": {
             "nombre": "Running",
             "id": "running"
@@ -32,7 +32,7 @@
     {
         "id": "running-04",
         "titulo": "Running 04",
-        "imagen": "./img/running/04.jpg",
+        "imagen": "./images/running/04.webp",
         "categoria": {
             "nombre": "Running",
             "id": "running"
@@ -42,7 +42,7 @@
     {
         "id": "trainning-01",
         "titulo": "Trainning 01",
-        "imagen": "./img/trainning/01.jpg",
+        "imagen": "./images/trainning/01.webp",
         "categoria": {
             "nombre": "Trainning",
             "id": "trainning"
@@ -52,7 +52,7 @@
     {
         "id": "trainning-02",
         "titulo": "Trainning 02",
-        "imagen": "./img/trainning/02.jpg",
+        "imagen": "./images/trainning/02.webp",
         "categoria": {
             "nombre": "Trainning",
             "id": "trainning"
@@ -62,7 +62,7 @@
     {
         "id": "trainning-03",
         "titulo": "Trainning 03",
-        "imagen": "./img/trainning/03.jpg",
+        "imagen": "./images/trainning/03.webp",
         "categoria": {
             "nombre": "Trainning",
             "id": "trainning"
@@ -72,7 +72,7 @@
     {
         "id": "trainning-04",
         "titulo": "Trainning 04",
-        "imagen": "./img/trainning/04.jpg",
+        "imagen": "./images/trainning/04.webp",
         "categoria": {
             "nombre": "Trainning",
             "id": "trainning"
@@ -82,7 +82,7 @@
     {
         "id": "moda-01",
         "titulo": "Moda 01",
-        "imagen": "./img/moda/01.jpg",
+        "imagen": "./images/moda/01.webp",
         "categoria": {
             "nombre": "Moda",
             "id": "moda"
@@ -92,7 +92,7 @@
     {
         "id": "moda-02",
         "titulo": "Moda 02",
-        "imagen": "./img/moda/02.jpg",
+        "imagen": "./images/moda/02.webp",
         "categoria": {
             "nombre": "Moda",
             "id": "moda"
@@ -102,7 +102,7 @@
     {
         "id": "moda-03",
         "titulo": "Moda 03",
-        "imagen": "./img/moda/03.jpg",
+        "imagen": "./images/moda/03.webp",
         "categoria": {
             "nombre": "Moda",
             "id": "moda"
@@ -112,7 +112,7 @@
     {
         "id": "moda-04",
         "titulo": "Moda 04",
-        "imagen": "./img/moda/04.jpg",
+        "imagen": "./images/moda/04.webp",
         "categoria": {
             "nombre": "Moda",
             "id": "moda"
