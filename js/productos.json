@@ -1,121 +1,121 @@
 [
     {
-        "id": "abrigo-01",
-        "titulo": "Abrigo 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "id": "running-01",
+        "titulo": "Running 01",
+        "imagen": "./img/running/01.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Running",
+            "id": "running"
         },
         "precio": 1800
     },
     {
-        "id": "abrigo-02",
-        "titulo": "Abrigo 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "id": "running-02",
+        "titulo": "Running 02",
+        "imagen": "./img/running/02.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Running",
+            "id": "running"
         },
         "precio": 1850
     },
     {
-        "id": "abrigo-03",
-        "titulo": "Abrigo 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "id": "running-03",
+        "titulo": "Running 03",
+        "imagen": "./img/running/03.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Running",
+            "id": "running"
         },
         "precio": 1900
     },
     {
-        "id": "abrigo-04",
-        "titulo": "Abrigo 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "id": "running-04",
+        "titulo": "Running 04",
+        "imagen": "./img/running/04.jpg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Running",
+            "id": "running"
         },
         "precio": 2000
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "id": "trainning-01",
+        "titulo": "Trainning 01",
+        "imagen": "./img/trainning/01.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Trainning",
+            "id": "trainning"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-02",
-        "titulo": "Camiseta 02",
-        "imagen": "./img/camisetas/02.jpg",
+        "id": "trainning-02",
+        "titulo": "Trainning 02",
+        "imagen": "./img/trainning/02.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Trainning",
+            "id": "trainning"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-03",
-        "titulo": "Camiseta 03",
-        "imagen": "./img/camisetas/03.jpg",
+        "id": "trainning-03",
+        "titulo": "Trainning 03",
+        "imagen": "./img/trainning/03.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Trainning",
+            "id": "trainning"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-04",
-        "titulo": "Camiseta 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "id": "trainning-04",
+        "titulo": "Trainning 04",
+        "imagen": "./img/trainning/04.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Trainning",
+            "id": "trainning"
         },
         "precio": 1000
     },
     {
-        "id": "pantalon-01",
-        "titulo": "Pantalón 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "id": "moda-01",
+        "titulo": "Moda 01",
+        "imagen": "./img/moda/01.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Moda",
+            "id": "moda"
         },
         "precio": 2000
     },
     {
-        "id": "pantalon-02",
-        "titulo": "Pantalón 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "id": "moda-02",
+        "titulo": "Moda 02",
+        "imagen": "./img/moda/02.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Moda",
+            "id": "moda"
         },
         "precio": 2000
     },
     {
-        "id": "pantalon-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "id": "moda-03",
+        "titulo": "Moda 03",
+        "imagen": "./img/moda/03.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Moda",
+            "id": "moda"
         },
         "precio": 2000
     },
     {
-        "id": "pantalon-04",
-        "titulo": "Pantalón 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "id": "moda-04",
+        "titulo": "Moda 04",
+        "imagen": "./img/moda/04.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Moda",
+            "id": "moda"
         },
         "precio": 3000
     }
