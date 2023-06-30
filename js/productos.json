@@ -40,16 +40,6 @@
         "precio": 2000
     },
     {
-        "id": "abrigo-05",
-        "titulo": "Abrigo 05",
-        "imagen": "./img/abrigos/05.jpg",
-        "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
-        },
-        "precio": 2000
-    },
-    {
         "id": "camiseta-01",
         "titulo": "Camiseta 01",
         "imagen": "./img/camisetas/01.jpg",
@@ -90,46 +80,6 @@
         "precio": 1000
     },
     {
-        "id": "camiseta-05",
-        "titulo": "Camiseta 05",
-        "imagen": "./img/camisetas/05.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1500
-    },
-    {
-        "id": "camiseta-06",
-        "titulo": "Camiseta 06",
-        "imagen": "./img/camisetas/06.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1500
-    },
-    {
-        "id": "camiseta-07",
-        "titulo": "Camiseta 07",
-        "imagen": "./img/camisetas/07.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1700
-    },
-    {
-        "id": "camiseta-08",
-        "titulo": "Camiseta 08",
-        "imagen": "./img/camisetas/08.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1700
-    },
-    {
         "id": "pantalon-01",
         "titulo": "Pantalón 01",
         "imagen": "./img/pantalones/01.jpg",
@@ -163,16 +113,6 @@
         "id": "pantalon-04",
         "titulo": "Pantalón 04",
         "imagen": "./img/pantalones/04.jpg",
-        "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
-        },
-        "precio": 3000
-    },
-    {
-        "id": "pantalon-05",
-        "titulo": "Pantalón 05",
-        "imagen": "./img/pantalones/05.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
