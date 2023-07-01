@@ -1,7 +1,7 @@
 [
     {
         "id": "running-01",
-        "titulo": "Running 01",
+        "titulo": "UltraBoost 22",
         "imagen": "./images/running/01.webp",
         "categoria": {
             "nombre": "Running",
@@ -11,7 +11,7 @@
     },
     {
         "id": "running-02",
-        "titulo": "Running 02",
+        "titulo": "ADISTAR",
         "imagen": "./images/running/02.webp",
         "categoria": {
             "nombre": "Running",
@@ -21,7 +21,7 @@
     },
     {
         "id": "running-03",
-        "titulo": "Running 03",
+        "titulo": "Adizero SL",
         "imagen": "./images/running/03.webp",
         "categoria": {
             "nombre": "Running",
@@ -31,7 +31,7 @@
     },
     {
         "id": "running-04",
-        "titulo": "Running 04",
+        "titulo": "Ultraboost Light",
         "imagen": "./images/running/04.webp",
         "categoria": {
             "nombre": "Running",
@@ -41,7 +41,7 @@
     },
     {
         "id": "trainning-01",
-        "titulo": "Trainning 01",
+        "titulo": "Terrex Faster",
         "imagen": "./images/trainning/01.webp",
         "categoria": {
             "nombre": "Trainning",
@@ -51,7 +51,7 @@
     },
     {
         "id": "trainning-02",
-        "titulo": "Trainning 02",
+        "titulo": "Terrex Agravic",
         "imagen": "./images/trainning/02.webp",
         "categoria": {
             "nombre": "Trainning",
@@ -61,7 +61,7 @@
     },
     {
         "id": "trainning-03",
-        "titulo": "Trainning 03",
+        "titulo": "Terrex Tracer",
         "imagen": "./images/trainning/03.webp",
         "categoria": {
             "nombre": "Trainning",
@@ -71,7 +71,7 @@
     },
     {
         "id": "trainning-04",
-        "titulo": "Trainning 04",
+        "titulo": "Terrex Gore-Tex Mid",
         "imagen": "./images/trainning/04.webp",
         "categoria": {
             "nombre": "Trainning",
@@ -81,7 +81,7 @@
     },
     {
         "id": "moda-01",
-        "titulo": "Moda 01",
+        "titulo": "ADI-2000",
         "imagen": "./images/moda/01.webp",
         "categoria": {
             "nombre": "Moda",
@@ -91,7 +91,7 @@
     },
     {
         "id": "moda-02",
-        "titulo": "Moda 02",
+        "titulo": "Forum Mid",
         "imagen": "./images/moda/02.webp",
         "categoria": {
             "nombre": "Moda",
@@ -101,7 +101,7 @@
     },
     {
         "id": "moda-03",
-        "titulo": "Moda 03",
+        "titulo": "NMD V_2",
         "imagen": "./images/moda/03.webp",
         "categoria": {
             "nombre": "Moda",
@@ -111,7 +111,7 @@
     },
     {
         "id": "moda-04",
-        "titulo": "Moda 04",
+        "titulo": "Superstar Limited",
         "imagen": "./images/moda/04.webp",
         "categoria": {
             "nombre": "Moda",
